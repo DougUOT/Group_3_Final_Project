@@ -24,7 +24,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Collaborate with a team on a final project that synthesizes and showcases the skills we've learned in this course.
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -81,6 +81,8 @@ Collaborate with a team on a final project that synthesizes and showcases the sk
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+### Collaborate with a team on a final project that synthesizes and showcases the skills we've learned in this course.
 
 ### This project will take place in four segments. At the end of each segment, we'll submit a graded deliverable. 
 
