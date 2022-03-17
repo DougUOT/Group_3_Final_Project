@@ -84,7 +84,7 @@ Collaborate with a team on a final project that synthesizes and showcases the sk
 
 ### This project will take place in four segments. At the end of each segment, we'll submit a graded deliverable. 
 
-
+  * First Segment: Sketch It Out: Decide on your overall project, select your question, and build a simple model. You'll connect the model to a fabricated database, using comma-separated values (CSV) or JavaScript Object Notation (JSON) files, to prototype your idea
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
