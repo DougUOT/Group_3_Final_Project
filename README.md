@@ -24,7 +24,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+Collaborate with a team on a final project that synthesizes and showcases the skills we've learned in this course.
 
 <!-- PROJECT LOGO -->
 <br />
